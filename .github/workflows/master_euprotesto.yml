@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'euprotesto'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0e3951faac75498f996583eb297dce36 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1d6efbadd7ef4288a3630ba0599fc933 }}
         package: .
